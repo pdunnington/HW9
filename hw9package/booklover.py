@@ -7,7 +7,7 @@ class BookLover():
         self.email = str(email)
         self.fav_genre = str(fav_genre)
     def add_book(self, book_name, rating):
-        if book_name in self.book_list['book_name'].values:
+        if book_name in self.book_list['book_name']:
             print("book's already here")
             self.num_books+=1
         else: 
