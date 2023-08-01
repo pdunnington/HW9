@@ -1,0 +1,9 @@
+setup.py
+HW_9_Directory.egg-info/PKG-INFO
+HW_9_Directory.egg-info/SOURCES.txt
+HW_9_Directory.egg-info/dependency_links.txt
+HW_9_Directory.egg-info/requires.txt
+HW_9_Directory.egg-info/top_level.txt
+hw9package/__init__.py
+hw9package/booklover.py
+test/booklover_test.py

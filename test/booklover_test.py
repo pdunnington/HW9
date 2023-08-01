@@ -1,6 +1,5 @@
 import unittest
 from booklover import BookLover
-
 student1 = BookLover('Patrick','ped9zgx@virginia.edu','Scifi') 
 
 class BookLoverTestSuite(unittest.TestCase):
